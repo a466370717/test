@@ -1,3 +1,3 @@
 <?php 
-	require('public/header.php')
+	require('public/header.php');
  ?>
